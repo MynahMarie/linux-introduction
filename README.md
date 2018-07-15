@@ -22,7 +22,7 @@
 - `mv` and `cp`: rename or change place and copy (for files and directories)
 - power of `rm`: be careful! To delete an entire directory `rm -rf <dir>`
 - using `*` to delete or move multiple files **CAREFUL**
-**Why is it important to learn how to move, delete and copy things from the command line?**
+- **Why is it important to learn how to move, delete and copy things from the command line?**
 - what is piping (`|`) and redirect (`>`, `<`)
 - reading a file and using `grep` with a pipe to isolate context
 - using the `-B` and `-A` flags with `grep`
