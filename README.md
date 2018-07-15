@@ -1,6 +1,6 @@
 # Simple and useful Linux commands
 
-### Baby Steps
+### Baby Steps :baby:
 
 - learn how to use `man <command>`
 - what are flags and the ones that are common across commands (`-h`, `--help`)
@@ -17,7 +17,7 @@
 - (`more`), `less`, `head` and `tail` to view bigger files
 - `wc` to know how big is a file (flags: `-w words, -c bytes, -l lines`)
 
-### Intermediate Steps
+### Intermediate Steps :boy: :girl:
 
 - `mv` and `cp`: rename or change place and copy (for files and directories)
 - power of `rm`: be careful! To delete an entire directory `rm -rf <dir>`
@@ -29,7 +29,7 @@
 - write to a file using `echo` with a redirect
 (- `find` and `locate`)
 
-### Advanced Steps
+### Advanced Steps :man: :woman:
 
 - download pages or documents using `curl`
   * examples:
